@@ -1,0 +1,46 @@
+{
+  "semestres": [
+    {
+      "semestre": "I",
+      "ramos": [
+        {"nombre": "Cálculo I", "tipo": "Obligatorio", "area": "Matemáticas"},
+        {"nombre": "Economía I", "tipo": "Obligatorio", "area": "Economía"},
+        {"nombre": "Álgebra I", "tipo": "Obligatorio", "area": "Matemáticas"},
+        {"nombre": "Contabilidad I", "tipo": "Obligatorio", "area": "Contabilidad"},
+        {"nombre": "Gestión de Empresas", "tipo": "Obligatorio", "area": "Administración"},
+        {"nombre": "Inglés Comunicativo I - Nivel Principiante", "tipo": "Inglés", "area": "Idiomas"}
+      ]
+    },
+    {
+      "semestre": "II",
+      "ramos": [
+        {"nombre": "Cálculo II", "tipo": "Obligatorio", "area": "Matemáticas"},
+        {"nombre": "Economía II", "tipo": "Obligatorio", "area": "Economía"},
+        {"nombre": "Álgebra II", "tipo": "Obligatorio", "area": "Matemáticas"},
+        {"nombre": "Contabilidad II", "tipo": "Obligatorio", "area": "Contabilidad"},
+        {"nombre": "Formación General I", "tipo": "Formación General", "area": "General"},
+        {"nombre": "Inglés Comunicativo II - Nivel Elemental", "tipo": "Inglés", "area": "Idiomas"}
+      ]
+    },
+    {
+      "semestre": "III",
+      "ramos": [
+        {"nombre": "Cálculo III", "tipo": "Obligatorio", "area": "Matemáticas"},
+        {"nombre": "Microeconomía I", "tipo": "Obligatorio", "area": "Economía"},
+        {"nombre": "Tecnologías de la Información I", "tipo": "Obligatorio", "area": "Tecnología"},
+        {"nombre": "Estadística I", "tipo": "Obligatorio", "area": "Estadística"},
+        {"nombre": "Inglés Comunicativo III - Nivel Básico", "tipo": "Inglés", "area": "Idiomas"}
+      ]
+    },
+    {
+      "semestre": "IV",
+      "ramos": [
+        {"nombre": "Cálculo Financiero", "tipo": "Obligatorio", "area": "Finanzas"},
+        {"nombre": "Macroeconomía I", "tipo": "Obligatorio", "area": "Economía"},
+        {"nombre": "Tecnologías de la Información II", "tipo": "Obligatorio", "area": "Tecnología"},
+        {"nombre": "Estadística II / Métodos Cuantitativos", "tipo": "Obligatorio", "area": "Estadística"},
+        {"nombre": "Formación General II", "tipo": "Formación General", "area": "General"}
+      ]
+    }
+  ]
+}
