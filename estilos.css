@@ -1,1 +1,17 @@
+/* Colores personalizados por área */
+
+.area-matematicas {
+  background-color: #dbeafe; /* azul claro */
+  color: #1e40af;            /* azul oscuro */
+}
+
+.area-economia {
+  background-color: #dcfce7; /* verde claro */
+  color: #065f46;            /* verde oscuro */
+}
+
+.area-administracion {
+  background-color: #ffedd5; /* naranjo claro */
+  color: #c2410c;            /* naranjo oscuro */
+}
 
